@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This as all about Adria"
+title: "This is all about Adria"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
